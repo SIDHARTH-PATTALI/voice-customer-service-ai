@@ -1,0 +1,23 @@
+# Core Libraries
+speechrecognition
+pyttsx3
+python-dotenv
+
+# LangChain + LLMs
+langchain
+langchain-community
+langchain-core
+langchain-groq
+langchain-huggingface
+
+# Vector Store & Embeddings
+faiss-cpu
+transformers
+huggingface-hub
+sentence-transformers
+
+# PDF Loading
+pypdf
+
+# Optional Enhancements (safe to include)
+tqdm
