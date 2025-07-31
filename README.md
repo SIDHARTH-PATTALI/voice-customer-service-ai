@@ -88,7 +88,7 @@ PDF_PATH = "C:/Users/yourname/Documents/your_file.pdf"
 Start the assistant by running:
 
 ```bash
-python main.py
+python main1.py
 ```
 
 Then speak your question into the microphone. The assistant will respond using voice. Say **"exit"** anytime to quit the program.
