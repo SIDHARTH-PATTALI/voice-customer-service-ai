@@ -41,7 +41,7 @@ ai-voice-support-agent/
 ### 1. 📁 Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/ai-voice-support-agent.git
+git clone https://github.com/SIDHARTH-PATTALI/ai-voice-support-agent.git
 cd ai-voice-support-agent
 ```
 
@@ -66,7 +66,7 @@ GROQ_API_KEY=your_groq_api_key_here
 ### Set the path to your Air Conditioner PDF Q&A Guide in `config.py`:
 
 ```python
-PDF_PATH = "C:/Users/yourname/Documents/ac_q&a_prj.pdf"
+PDF_PATH = "C:/Users/projects/Documents/ac_q&a_prj.pdf"
 ```
 
 ---
@@ -76,7 +76,7 @@ PDF_PATH = "C:/Users/yourname/Documents/ac_q&a_prj.pdf"
 Start the assistant by running:
 
 ```bash
-python main.py
+python main1.py
 ```
 
 It will listen for voice input. Ask it questions like:
