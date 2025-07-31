@@ -6,7 +6,7 @@ A voice-enabled AI assistant trained on the *Air Conditioner User Q&A Guide* for
 
 ## 🎯 Project Goal
 
-To automate customer service for Air Conditioner users by creating a voice-driven AI support agent. It answers common queries based on an uploaded user manual or Q&A document, reducing the need for live human support.
+To automate customer service for users by creating a voice-driven AI support agent. It answers common queries based on an uploaded user manual or Q&A document, reducing the need for live human support.
 
 ---
 
@@ -83,7 +83,7 @@ It will listen for voice input. Ask it questions like:
 
 - "How do I clean the filter?"
 - "Why is my AC not cooling?"
-- "What does error code E6 mean?"
+- "How oŌen should I clean the filters?"
 
 Say `"exit"` to end the session.
 
