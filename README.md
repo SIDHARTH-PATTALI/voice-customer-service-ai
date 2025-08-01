@@ -94,7 +94,7 @@ It will listen for voice input. Ask it questions like:
 
 - "How do I clean the filter?"
 - "Why is my AC not cooling?"
-- "How oŌen should I clean the filters?"
+- "How  should I clean the filters?"
 
 Say `"exit"` to end the session.
 
