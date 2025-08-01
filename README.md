@@ -19,7 +19,18 @@ To automate customer service for users by creating a voice-driven AI support age
 - 📞 Emulates a real customer service phone call
 
 ---
+## 🧱 Tech Stack
 
+- Python 3.10+
+- LangChain
+- Groq (LLaMA 3)
+- FAISS
+- HuggingFace Transformers
+- speech_recognition (Google Speech API)
+- pyttsx3 (TTS engine)
+- dotenv (for environment variables)
+
+---
 ## 🗂️ Project Structure
 
 ```bash
