@@ -1,6 +1,6 @@
-# ❄️ AI Voice Customer Support Agent — Air Conditioner Model XYZ-123
+# ❄️ AI Voice Customer Support Agent 
 
-A voice-enabled AI assistant trained on the *Air Conditioner User Q&A Guide* for **Split AC – Model XYZ-123**. It listens to customer queries over voice, searches the document for relevant answers, and responds naturally — just like a real call center agent.
+A voice-enabled AI assistant trained on the *Air Conditioner User Q&A Guide* for Split AC – Model XYZ-123. It listens to customer queries over voice, searches the document for relevant answers, and responds naturally — just like a real call center agent.
 
 ---
 
